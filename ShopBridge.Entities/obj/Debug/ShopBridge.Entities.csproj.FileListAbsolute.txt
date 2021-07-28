@@ -4,3 +4,8 @@ D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.dll
 D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.pdb
 D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csproj.CoreCompileInputs.cache
 D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csprojAssemblyReference.cache
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.dll
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.pdb
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csproj.CoreCompileInputs.cache
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.dll
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.pdb

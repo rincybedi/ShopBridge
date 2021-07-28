@@ -1,0 +1,6 @@
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\bin\Release\ShopBridge.Entities.dll
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\bin\Release\ShopBridge.Entities.pdb
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\obj\Release\ShopBridge.Entities.csprojAssemblyReference.cache
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\obj\Release\ShopBridge.Entities.csproj.CoreCompileInputs.cache
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\obj\Release\ShopBridge.Entities.dll
+E:\JS Frameworks\ShopBridge\ShopBridge.Entities\obj\Release\ShopBridge.Entities.pdb

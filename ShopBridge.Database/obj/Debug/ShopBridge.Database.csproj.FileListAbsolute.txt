@@ -16,3 +16,21 @@ D:\www\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.pdb
 D:\www\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.csprojAssemblyReference.cache
 D:\www\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.csproj.CoreCompileInputs.cache
 D:\www\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.csproj.CopyComplete
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\bin\Debug\ShopBridge.Database.dll.config
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\bin\Debug\ShopBridge.Database.dll
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\bin\Debug\ShopBridge.Database.pdb
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\bin\Debug\EntityFramework.dll
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\bin\Debug\EntityFramework.SqlServer.dll
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\bin\Debug\ShopBridge.Entities.dll
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\bin\Debug\ShopBridge.Entities.pdb
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\bin\Debug\EntityFramework.xml
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\bin\Debug\EntityFramework.SqlServer.xml
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.csprojAssemblyReference.cache
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.Migrations.initialized.resources
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.Migrations.updateInventoryItem.resources
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.Migrations.addedImageFile.resources
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.csproj.GenerateResource.cache
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.csproj.CoreCompileInputs.cache
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.csproj.CopyComplete
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.dll
+E:\JS Frameworks\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.pdb
